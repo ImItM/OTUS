@@ -1,0 +1,142 @@
+[
+    {
+        "id": 5,
+        "name": "Марков Трифон Вилорович",
+        "address": "клх Яхрома, пр. Профсоюзный, д. 278, 013855",
+        "email": "avde1990@example.org",
+        "phone_number": "72458442071",
+        "birth_date": "1989-03-24",
+        "company": "Системный оператор Единой энергетической системы",
+        "job": "Проректор"
+    },
+    {
+        "id": 6,
+        "name": "Сазонова Евпраксия Ниловна",
+        "address": "клх Билибино, ш. Высокое, д. 103 стр. 2/6, 090618",
+        "email": "veselovaevdokija@example.net",
+        "phone_number": "73555996971",
+        "birth_date": "1939-02-28",
+        "company": "ООО «Одинцова-Филатова»",
+        "job": "Моторист"
+    },
+    {
+        "id": 8,
+        "name": "Туров Азарий Васильевич",
+        "address": "к. Соль-Илецк, пер. Циолковского, д. 4 стр. 6/4, 570458",
+        "email": "kiselevfilaret@example.net",
+        "phone_number": "80155094538",
+        "birth_date": "1960-06-10",
+        "company": "ОАО «Борисова-Брагин»",
+        "job": "Бульдозерист"
+    },
+    {
+        "id": 9,
+        "name": "Князев Федор Изотович",
+        "address": "к. Аргаяш, наб. Дружба, д. 1 стр. 95, 795734",
+        "email": "hlapin@example.net",
+        "phone_number": "86624540140",
+        "birth_date": "1983-04-07",
+        "company": "ИП «Бобров Мамонтова»",
+        "job": "Фельдшер"
+    },
+    {
+        "id": 10,
+        "name": "Зуев Ермил Герасимович",
+        "address": "с. Воскресенск, ул. Фабричная, д. 547 к. 5/3, 993717",
+        "email": "julibelozerov@example.com",
+        "phone_number": "79578041975",
+        "birth_date": "1945-11-29",
+        "company": "ИП «Калашникова»",
+        "job": "Технолог"
+    },
+    {
+        "id": 11,
+        "name": "ddfg",
+        "address": "dfg",
+        "email": "dfg",
+        "phone_number": "dfg",
+        "birth_date": "dfg",
+        "company": "dfg",
+        "job": "dfg"
+    },
+    {
+        "id": 13,
+        "name": "Третьякова Оксана Мироновна",
+        "address": "к. Тымовское, наб. Февральская, д. 8, 327482",
+        "email": "andreevaverjan@example.org",
+        "phone_number": "76216987829",
+        "birth_date": "1923-03-10",
+        "company": "ООО «Носов Симонова»",
+        "job": "Радист"
+    },
+    {
+        "id": 16,
+        "name": "Олимпиада Ниловна Лихачева",
+        "address": "г. Йошкар-Ола, наб. Звездная, д. 695, 926057",
+        "email": "makar_86@example.com",
+        "phone_number": "74215087514",
+        "birth_date": "1922-10-25",
+        "company": "Доронина Лтд",
+        "job": "Дерматолог"
+    },
+    {
+        "id": 17,
+        "name": "Устинова Октябрина Дмитриевна",
+        "address": "д. Джейрах, алл. Снежная, д. 707 стр. 30, 889039",
+        "email": "emelnikova@example.net",
+        "phone_number": "74091736840",
+        "birth_date": "2019-10-17",
+        "company": "НПО «Исаева-Бобылев»",
+        "job": "Разведчик"
+    },
+    {
+        "id": 18,
+        "name": "Екатерина Кузьминична Мишина",
+        "address": "с. Курчатов, бул. Автомобилистов, д. 8/6 стр. 3, 742935",
+        "email": "tatjana_53@example.com",
+        "phone_number": "82613365930",
+        "birth_date": "2018-09-02",
+        "company": "ЗАО «Киселев Красильников»",
+        "job": "Борт-стрелок"
+    },
+    {
+        "id": 19,
+        "name": "erg",
+        "address": "dfgd",
+        "email": "fgd",
+        "phone_number": "fg",
+        "birth_date": "df",
+        "company": "gdf",
+        "job": "gdfg"
+    },
+    {
+        "id": 20,
+        "name": "ert",
+        "address": "ewrtewr",
+        "email": "et",
+        "phone_number": "wertew",
+        "birth_date": "rtwe",
+        "company": "wert",
+        "job": "wet"
+    },
+    {
+        "id": 21,
+        "name": "fedg",
+        "address": "dfg",
+        "email": "dfg",
+        "phone_number": "df",
+        "birth_date": "gd",
+        "company": "fg",
+        "job": "df"
+    },
+    {
+        "id": 22,
+        "name": "5",
+        "address": "fgh",
+        "email": "fgh",
+        "phone_number": "fgh",
+        "birth_date": "fgh",
+        "company": "fgh",
+        "job": "fgh"
+    }
+]
