@@ -81,7 +81,7 @@ def show_contacts(*args):
         print(f"Работа:\t\t{contact['company']}")
         print(f"Специальность:\t{contact['job']}")
         print('-'*40)
-    input('Нажмите Enter для возврата в меню.')
+    input('Нажмите ENTER для возврата в меню.')
     return
 
 
@@ -123,7 +123,7 @@ def add_contact(*args):
         new_value = input(f'Введите {value}: ')
         contact_to_add[key] = new_value
     print(contact_to_add)
-    if input('Данные корректны?').lower() == 'y':
+    if input('Данные корректны? (ДА - Y / Нет - N): ').lower() == 'y':
         current_address_book.append(contact_to_add)
         address_book_changed = True
     return 'Контакт добавлен.'
@@ -166,8 +166,8 @@ def delete_contact(*args):
             else:
                 k+=1
                 continue
-    input('Контакт с тиким ID не найден.\nНажите ENTER для возврата в основное меню.')
-    return 'Контакт с тиким ID не найден.'
+    input('Контакт с таким ID не найден.\nНажите ENTER для возврата в основное меню.')
+    return 'Контакт с таким ID не найден.'
 
 
 def save_address_book(*args):
