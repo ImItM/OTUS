@@ -1,25 +1,5 @@
 [
     {
-        "id": 5,
-        "name": "Марков Трифон Вилорович",
-        "address": "клх Яхрома, пр. Профсоюзный, д. 278, 013855",
-        "email": "avde1990@example.org",
-        "phone_number": "72458442071",
-        "birth_date": "1989-03-24",
-        "company": "Системный оператор Единой энергетической системы",
-        "job": "Проректор"
-    },
-    {
-        "id": 6,
-        "name": "Сазонова Евпраксия Ниловна",
-        "address": "клх Билибино, ш. Высокое, д. 103 стр. 2/6, 090618",
-        "email": "veselovaevdokija@example.net",
-        "phone_number": "73555996971",
-        "birth_date": "1939-02-28",
-        "company": "ООО «Одинцова-Филатова»",
-        "job": "Моторист"
-    },
-    {
         "id": 8,
         "name": "Туров Азарий Васильевич",
         "address": "к. Соль-Илецк, пер. Циолковского, д. 4 стр. 6/4, 570458",
@@ -138,5 +118,15 @@
         "birth_date": "tdfg",
         "company": "er",
         "job": "er"
+    },
+    {
+        "id": 24,
+        "name": "Трошин Алексей Аркадьевич'",
+        "address": "sdfsdfsdf",
+        "email": "sdfsdf",
+        "phone_number": "sdfsdf",
+        "birth_date": "sdfsdfsd",
+        "company": "sdfsdf",
+        "job": "sdfsdfsd"
     }
 ]
